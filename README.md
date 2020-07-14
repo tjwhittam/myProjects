@@ -1,13 +1,13 @@
 # myProjects
 
-Project Summaries
+Project Summaries:
   
   Penguin Hopper:         Press Space to jump, collect fish to stay alive as long as possible. Made in 1 hour with collegue during mini-gamejam
   Cursed Sands:           A digital tile laying board game. designed for a shared screen/android device. 
   Memories:               A game where you need to keep track of your sanity and warmth meter by deciding what objects to burn; Developed in 24 hours at the MMU Hackathon.
   Digital CCG Prototype:  A prototype developed as part of my final year project
   
-CCG Instructions
+CCG Instructions:
   A turn is split into 5 phases: reset, upkeep, draw, action, end.
   Reset is when your hero card skill values are accumulated into your pool
   Upkeep is when static abilities take place (not implemented)
